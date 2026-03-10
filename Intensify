@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Lucas Data Lab</title>
+
+<style>
+
+body{
+font-family: Arial;
+background-color:#f4f4f4;
+text-align:center;
+}
+
+header{
+background:black;
+color:white;
+padding:30px;
+}
+
+section{
+background:white;
+margin:40px;
+padding:30px;
+border-radius:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Lucas Data Lab</h1>
+<p>Exploring Data with Statistics</p>
+</header>
+
+<section>
+
+<h2>About This Project</h2>
+
+<p>
+This website showcases data analysis projects using statistics
+and Python. The goal is to explore real-world datasets and
+discover patterns using statistical models.
+</p>
+
+</section>
+
+<section>
+
+<h2>Featured Project</h2>
+
+<h3>Housing Price Data Analysis</h3>
+
+<p>
+This project analyzes housing price trends using regression
+models to predict future market behavior.
+</p>
+
+</section>
+
+</body>
+
+</html>
